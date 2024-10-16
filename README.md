@@ -23,3 +23,7 @@ void loop() {
   delay(500);
 }
 ```
+
+## Segunda Parte
+
+https://www.tinkercad.com/things/f9JREJ30MaL/editel?sharecode=zMSUtT_Qg48LRQ03AzPBs54tjh_38MHIewHuGfJxkd4
